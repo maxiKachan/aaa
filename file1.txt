@@ -1,5 +1,5 @@
 Hello world!
 12345
-Good bye!
+Good morning! (from branch add-feature1)
 asdf
 Line from user1
